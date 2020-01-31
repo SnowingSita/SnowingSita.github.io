@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 [College of William & Mary](www.wm.edu){:target="_blank"}
+![alt text](./images/wm.png "College of William & Mary")
 ======
 August 2017 - May 2019
 Master of Science in Computer Science (Specialization in Computational Operations Research)
