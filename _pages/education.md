@@ -5,4 +5,22 @@ permalink: /education/
 author_profile: true
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+[College of William & Mary](www.wm.edu){:target="_blank"}
+======
+August 2017 - May 2019
+Master of Science in Computer Science (Specialization in Computational Operations Research)
+
+Mathematics & Computer Science Courses: 
+* APSC 691 - Applied Machine Learning
+* CSCI 698 - Simulation & Modeling in Operations Research
+* CSCI 688 - Data Mining
+* CSCI 688 - Network Location Theory
+* CSCI 688 - Optimization in Machine Learning 
+* CSCI 678 - Statistical Analysis of Simulation Models
+* CSCI 658 - Discrete Optimization 
+* CSCI 648 - Network Optimization 
+* CSCI 628 - Linear Programming 
+* CSCI 618 - Models & Applications in Operations Research 
+* CSCI 520 - Computing in Operations Research 
+* MATH 552 - Mathematical Statistics 
+* MATH 551 - Probability
