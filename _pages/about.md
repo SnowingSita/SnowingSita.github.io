@@ -15,7 +15,10 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 ▷ Analytical Toolkit:
 
 - Operating Systems: Windows, Mac OS, Unix/Linux
-- Languages: R(caret, data.table, DMwR, dplyr, ggplot2, h2o, iml, recipes, tidyr), Python(Matplotlib, NumPy, pandas, scikit-learn, Seaborn), SQL(Oracle, PostgreSQL)
+- Languages: 
+	- R(caret, data.table, DMwR, dplyr, ggplot2, h2o, iml, recipes, tidyr)
+	- Python(Matplotlib, NumPy, pandas, scikit-learn, Seaborn)
+	- SQL(Oracle, PostgreSQL)
 - Tools: LaTeX, AMPL, Jupyter Notebook, RMarkdown, Git/GitHub, Oracle Database, SAS Enterprise Miner, Arena/SIMAN, Regular Expressions, Microsoft Excel, Maple, SPSS
 - Skills: Data Analysis, Data Mining, Data Visualization, Deep Learning(Neural Networks), Discrete Event Simulation, Linear Programming(CPLEX, Gurobi), Mathematical Statistics, Machine Learning(Classification, Clustering, Regression), Predictive Modeling, Probability, Time Series Analysis(ARIMA)
 
