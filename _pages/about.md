@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Here is my [resume](./files/XinZhang_Resume.190703.pdf){:target="_blank"}
+Here is my [resume](./files/XinZhang_Resume.190703.pdf){:target="_blank"} (will update sometime soon)
 
 M.S. in Computer Science (with a specialization in Operations Research) and B.A. in Sociology (with a minor in Math) with a passion for the field of data science, technology, and financial industry, currently working as a Predictive Modeler at PRA Group.
 
 ▷ Analytical Toolkit:
 - Operating Systems: Windows, Mac OS, Unix/Linux
-- Languages: 
+- Programming Languages: 
 	- R (caret, data.table, DMwR, h2o, iml, tidymodels(recipes), tidyverse(dplyr, ggplot2, tidyr))
 	- Python (Matplotlib, NumPy, pandas, scikit-learn, Seaborn)
 	- SQL (Oracle, PostgreSQL)
-- Tools: 
+- Tools/Softwares: 
 	- LaTeX
 	- AMPL mathematical computing
 	- Jupyter Notebook
@@ -31,7 +31,7 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 	- Microsoft Excel
 	- Maple
 	- SPSS
-- Skills: 
+- Skills/Knowledge: 
 	- Data Analysis
 	- Data Mining
 	- Data Visualization
@@ -46,8 +46,9 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 
 ▷ Soft Skills:
 - Active Learner 
-- Detail Oriented 
+- Detail Oriented
+- Problem Solver 
 - Self Motivated 
 - Team Player 
-- Problem Solver
+
 
