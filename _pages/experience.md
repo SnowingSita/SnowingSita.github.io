@@ -5,10 +5,10 @@ permalink: /experience/
 author_profile: true
 ---
 
-Work Experience
-======
+# Work Experience
 
-**Predictive Modeler**, Data & Analytics Department
+
+## Predictive Modeler, Data & Analytics Department
 
 PRA Group, Norfolk, VA
 
@@ -19,6 +19,6 @@ Aug 2019 – Present
 - Gathering source data and performing data preparation/data cleaning for modeling and analysis
 
 
+---
 
-Volunteer
-======
+# Volunteer
