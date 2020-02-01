@@ -76,7 +76,7 @@ March 2017 - Present
 	- [Machine Learning Toolbox](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"} (May 2019)  
 	- [Supervised Learning in R: Classification](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"} (May 2019)  			  
 	- [Supervised Learning in R: Regression](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"} (February 2019)  
-	- [Unsupervised Learning in R](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"}(April 2019)  
+	- [Unsupervised Learning in R](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"} (April 2019)  
    
 **Coursera**: 
 - [Practical Machine Learning on H2O](https://www.coursera.org/account/accomplishments/records/Y5VDKPEF8S2F){:target="_blank"} (January 2020)  
