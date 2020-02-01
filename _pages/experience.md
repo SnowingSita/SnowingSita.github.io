@@ -79,49 +79,37 @@ Jun 2016 – Sep 2016
 
 # Volunteer
 
-Subtitle Translator & Proofreader
-Company NameBlue Blood Subsitle Translation Group
-Dates volunteeredNov 2015 – Present Volunteer duration4 yrs 3 mos
-CauseArts and Culture
-• Translate subtitles from English into Chinese, mainly for TV Show Unforgettable (Season 4), Sea Patrol (Season 4 - 5), Blue Bloods (Season 8 - 10)
-• Assist with proofreading and subtitle timing
-• Subtitle interviews for actors without script
+## Subtitle Translator & Proofreader
+Blue Blood Subsitle Translation Group  
+Nov 2015 – Present 
+- Translate subtitles from English into Chinese, mainly for TV Show Unforgettable (Season 4), Sea Patrol (Season 4 - 5), Blue Bloods (Season 8 - 10)
+- Assist with proofreading and subtitle timing
+- Subtitle interviews for actors without script
 
-Sweet Briar College
-Alumnae Admissions Ambassador, Office of Admission
-Company NameSweet Briar College
-Dates volunteeredOct 2017 – Jun 2019 Volunteer duration1 yr 9 mos
-CauseEducation
-• Represented Sweet Briar College when visiting high schools or at college fairs
-• Contacted prospective students by writing letters and notes
-• Supported Office of Admission by delivering a positive alumna image
+## Alumnae Admissions Ambassador, Office of Admission
+Sweet Briar College, Sweet Briar, VA  
+Oct 2017 – Jun 2019 
+- Represented Sweet Briar College when visiting high schools or at college fairs
+- Contacted prospective students by writing letters and notes
+- Supported Office of Admission by delivering a positive alumna image
 
+## Sweet Work Weeks Volunteer
+Sweet Briar College, Sweet Briar, VA  
+Aug 2017 
+- Gave back to college by volunteering a week to help with various tasks
+- Painted residence halls on campus
 
-Sweet Briar College
-Sweet Work Weeks Volunteer
-Company NameSweet Briar College
-Dates volunteeredAug 2017 Volunteer duration1 mo
-CauseSocial Services
-• Gave back to college by volunteering a week to help with various tasks
-• Painted residence halls on campus
+## Reunion Volunteer, Office of Alumnae Relations and Development
+Sweet Briar College, Sweet Briar, VA  
+Jun 2016 – Jun 2017 
+- Helped with 2016 & 2017 Summer Reunion events
+- Greeted alumnae at the front entrance
+- Gave campus tours
+- Assisted with room decorating and event set ups
 
-
-Sweet Briar College
-Reunion Volunteer, Office of Alumnae Relations and Development
-Company NameSweet Briar College
-Dates volunteeredJun 2016 – Jun 2017 Volunteer duration1 yr 1 mo
-CauseSocial Services
-• Helped with 2016 & 2017 Summer Reunion events
-• Greeted alumnae at the front entrance
-• Gave campus tours
-• Assisted with room decorating and event set ups
-
-
-Guoxiang Art Kindergarten
-Day Care Volunteer
-Company NameGuoxiang Art Kindergarten
-Dates volunteered2012 – 2014 Volunteer duration2 yrs
-CauseChildren
-• Assisted teachers with daily classroom activities and played together with children
-• Provided supervision and support to a group of children
-• Provided assistance with all other tasks as needed
+## Day Care Volunteer
+Guoxiang Art Kindergarten, Suzhou, Jiangsu, China  
+2012 – 2014 
+- Assisted teachers with daily classroom activities and played together with children
+- Provided supervision and support to a group of children
+- Provided assistance with all other tasks as needed
