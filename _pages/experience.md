@@ -6,9 +6,7 @@ author_profile: true
 
 # Work Experience
 
-
 ## Predictive Modeler, Data & Analytics Department
-
 PRA Group, Norfolk, VA  
 Aug 2019 – Present
 - Developing predictive scoring models for operational strategies and enhancing current models with use of SQL, R, and SAS
