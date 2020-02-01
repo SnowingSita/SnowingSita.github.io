@@ -5,6 +5,8 @@ permalink: /education/
 author_profile: true
 ---
 
+---
+
 [College of William & Mary](http://www.wm.edu){:target="_blank"}
 ======
 August 2017 - May 2019
@@ -25,6 +27,8 @@ Master of Science in Computer Science (Specialization in Computational Operation
 - CSCI 520 Computing in Operations Research 
 - MATH 552 Mathematical Statistics 
 - MATH 551 Probability
+
+---
 
 [Sweet Brair College](http://www.sbc.edu){:target="_blank"}
 ======
@@ -56,6 +60,7 @@ Bachelor of Arts in Sociology (minor in Mathematics)
 - CSCI 188 Java Programming I 
 - PHIL 119 Logic 
 
+---
 
 Continuing Education
 ======
