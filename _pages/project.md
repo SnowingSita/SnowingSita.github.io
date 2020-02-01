@@ -23,8 +23,8 @@ Fall 2018 - CSCI 698 Simulation & Modeling in Operations Research
 - Conducted data analysis in R (packages used: dplyr, ggmap, ggplot2, mapview, sp, rgdal, raster)
 - Applied time series and geographic information system package to help analyzing the data
 
-##Confidence Region Plotting 
-Spring 2018 CSCI 678 Statistical Analysis of Simulation Models
+## Confidence Region Plotting 
+Spring 2018 - CSCI 678 Statistical Analysis of Simulation Models
 - Contributed to existing R package conf by adding code for four more uni-variate distributions
 - Adapted an existing confidence regions plotting technique and two improvement heuristics
 - conf package is available at [https://CRAN.R-project.org/package=conf](https://CRAN.R-project.org/package=conf){:target="_blank"}
