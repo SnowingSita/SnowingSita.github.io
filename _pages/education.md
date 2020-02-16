@@ -12,6 +12,7 @@ author_profile: true
 August 2017 - May 2019  
 Master of Science in Computer Science (Specialization in Computational Operations Research)  
 Honors & Awards: Teaching Assistantship  
+Activities and Societies: Chinese Students and Scholars Association (CSSA)
 
 **Mathematics & Computer Science Courses**: 
 - APSC 691 Applied Machine Learning
@@ -35,6 +36,8 @@ Honors & Awards: Teaching Assistantship
 August 2012 - May 2016  
 Bachelor of Arts in Sociology (minor in Mathematics)   
 Honors & Awards: Founder’s Scholarship, Leadership Award, Service Award, Dean’s List
+Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club  
+
 
 **Sociology & Psychology Courses**: 
 - SOCI 452 Senior Seminar 
@@ -75,19 +78,19 @@ March 2017 - Present
 **DataCamp**: 
 - Joining Data in SQL (July 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
 - Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
-- [Machine Learning Fundamentals in R Track](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}   
-	- [Machine Learning Toolbox](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"} (May 2019)  
-	- [Supervised Learning in R: Classification](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"} (May 2019)  			  
-	- [Supervised Learning in R: Regression](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"} (February 2019)  
-	- [Unsupervised Learning in R](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"} (April 2019)   
+- Machine Learning Fundamentals in R Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}   
+	- Machine Learning Toolbox (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"}  
+	- Supervised Learning in R: Classification (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"}  			  
+	- Supervised Learning in R: Regression (February 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"}  
+	- Unsupervised Learning in R (April 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"}   
 	
 **Coursera**: 
-- [Practical Machine Learning on H2O](https://www.coursera.org/account/accomplishments/records/Y5VDKPEF8S2F){:target="_blank"} (January 2020)  
-- [Advanced R Programming](https://www.coursera.org/account/accomplishments/records/KAJT6AQUVH5E){:target="_blank"} (December 2017) 
-- [The R Programming Environment](https://www.coursera.org/account/accomplishments/records/J7AM92J6ELBF){:target="_blank"} (December 2017) 
-- [Python Data Structures](https://www.coursera.org/account/accomplishments/records/BUDYB372LPUQ){:target="_blank"} (November 2017) 
-- [R Programming](https://www.coursera.org/account/accomplishments/records/77FEUCLHM7N3){:target="_blank"} (November 2017)  
-- [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/C5MS6WN3NPQ4){:target="_blank"} (November 2017) 
-- [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/account/accomplishments/records/ZGA34GNXE3SE){:target="_blank"} (July 2017)  
-- [Introduction to Probability and Data](https://www.coursera.org/account/accomplishments/records/NSECHXS8GKE5){:target="_blank"} (July 2017)  
-- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/records/6KZPLTC3CQUQ){:target="_blank"} (July 2017)  
+- Practical Machine Learning on H2O (January 2020) [certificate link](https://www.coursera.org/account/accomplishments/records/Y5VDKPEF8S2F){:target="_blank"}  
+- Advanced R Programming (December 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/KAJT6AQUVH5E){:target="_blank"} 
+- The R Programming Environment (December 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/J7AM92J6ELBF){:target="_blank"} 
+- Python Data Structures (November 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/BUDYB372LPUQ){:target="_blank"}
+- R Programming (November 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/77FEUCLHM7N3){:target="_blank"}  
+- The Data Scientist’s Toolbox (November 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/C5MS6WN3NPQ4){:target="_blank"} 
+- An Introduction to Interactive Programming in Python (Part 1) (July 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/ZGA34GNXE3SE){:target="_blank"}  
+- Introduction to Probability and Data (July 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/NSECHXS8GKE5){:target="_blank"}  
+- Programming for Everybody (Getting Started with Python) (July 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/6KZPLTC3CQUQ){:target="_blank"}  
