@@ -10,6 +10,7 @@ redirect_from:
 
 Here is my [resume](./files/XinZhang_Resume.190703.pdf){:target="_blank"} (will update sometime soon)
 
+Aspiring data science professional working towards her career goal as a full stack data scientist.  
 M.S. in Computer Science (with a specialization in Operations Research) and B.A. in Sociology (with a minor in Math) with a passion for the field of data science, technology, and financial industry, currently working as a Predictive Modeler at PRA Group.
 
 ▷ Analytical Toolkit:
