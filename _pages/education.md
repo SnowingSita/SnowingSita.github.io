@@ -35,7 +35,7 @@ Activities and Societies: Chinese Students and Scholars Association (CSSA)
 ======
 August 2012 - May 2016  
 Bachelor of Arts in Sociology (minor in Mathematics)   
-Honors & Awards: Founder’s Scholarship, Leadership Award, Service Award, Dean’s List
+Honors & Awards: Founder’s Scholarship, Leadership Award, Service Award, Dean’s List  
 Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club  
 
 
