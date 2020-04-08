@@ -52,5 +52,5 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 - Self Motivated 
 - Team Player 
 
-▷ Work Authorization: 
+▷ Work Authorization:  
 Currently on first-year OPT, eligible for STEM extension. 
