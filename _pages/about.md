@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Here is my [resume](./files/XinZhang_Resume.200317.pdf){:target="_blank"}
+Here is my [resume](./files/XinZhang_Resume.200708.pdf){:target="_blank"} updated April, 2020.
 
-Aspiring data science professional working towards her career goal as a full stack data scientist.  
-M.S. in Computer Science (with a specialization in Operations Research) and B.A. in Sociology (with a minor in Math) with a passion for the field of data science, technology, and financial industry, currently working as a Predictive Modeler at PRA Group.
+Aspiring data science professional working towards her career goal as a full stack data scientist.
+M.S. in Computer Science (with a specialization in Operations Research) and B.A. in Sociology (with a minor in Mathematics) with a passion for the field of data science, technology, and financial services industry, currently working as a Predictive Modeler at PRA Group.
 
 ▷ Analytical Toolkit:
 - Operating Systems: Windows, Mac OS, Unix/Linux
@@ -21,7 +21,7 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 	- SQL (Oracle, PostgreSQL)
 - Tools/Softwares: 
 	- LaTeX
-	- AMPL mathematical computing
+	- AMPL Mathematical Computing Software
 	- Jupyter Notebook
 	- RMarkdown/Markdown
 	- Git/GitHub
@@ -43,7 +43,7 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 	- Machine Learning (Classification, Clustering, Regression)
 	- Predictive Modeling
 	- Probability
-	- Time Series Analysis (ARIMA)
+	- Time Series Analysis (ARIMA, exponential smoothing, GARCH)
 
 ▷ Soft Skills:
 - Active Learner 
@@ -52,4 +52,4 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 - Self Motivated 
 - Team Player 
 
-
+Work Authorization: currently on first-year OPT, eligible for STEM extension. 
