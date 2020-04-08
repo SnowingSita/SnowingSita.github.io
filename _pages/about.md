@@ -30,8 +30,8 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 	- Arena/SIMAN Simulation Software
 	- Regular Expressions
 	- Microsoft Excel
-	- Maple
-	- SPSS
+	- Maple Mathematics Software
+	- SPSS Statistical Software 
 - Skills/Knowledge: 
 	- Data Analysis
 	- Data Mining
@@ -52,4 +52,5 @@ M.S. in Computer Science (with a specialization in Operations Research) and B.A.
 - Self Motivated 
 - Team Player 
 
-Work Authorization: currently on first-year OPT, eligible for STEM extension. 
+▷ Work Authorization: 
+Currently on first-year OPT, eligible for STEM extension. 
