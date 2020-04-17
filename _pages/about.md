@@ -27,6 +27,7 @@ Work Authorization: Currently on first-year OPT, eligible for STEM extension.
 	- Jupyter Notebook
 	- RMarkdown/Markdown
 	- Git/GitHub
+	- Command Line
 	- Oracle Database
 	- SAS Enterprise Miner
 	- Arena/SIMAN Simulation Software
@@ -45,7 +46,7 @@ Work Authorization: Currently on first-year OPT, eligible for STEM extension.
 	- Machine Learning (Classification, Clustering, Regression)
 	- Predictive Modeling
 	- Probability
-	- Time Series Analysis (ARIMA, exponential smoothing, GARCH)
+	- Time Series Analysis (ARIMA, Exponential Smoothing, GARCH)
 
 ▷ Soft Skills:
 - Active Learner 

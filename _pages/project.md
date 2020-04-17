@@ -11,7 +11,7 @@ author_profile: true
 
 ## DrivenData Challenge: Data Mining the Water Table 
 Spring 2019 - CSCI 688 Data Mining
-- Implemented classification models using random forest, KNN, and logistic regression
+- Implemented classification models using random forest, k-nearest neighbors, and logistic regression
 - Performed data cleaning/pre-processing and further analysis in R (packages used: caret)
 - Collaborated with other team members through GitHub
 - Project repository [https://github.com/egbuck/waterTable](https://github.com/egbuck/waterTable){:target="_blank"}
