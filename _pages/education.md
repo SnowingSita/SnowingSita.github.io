@@ -72,17 +72,22 @@ March 2017 - Present
 ▷ Taking various courses in Computer Science and Data Science 
   
 **edX**: 
-- Introduction to Analytics Modeling (in progress)  
-- Computing for Data Analysis (in progress)  
+- Analytics: Essential Tools and Methods MicroMasters Program [certificate link](https://credentials.edx.org/records/programs/a2a6a8f97b6149ce9d627e959b776fb7/){:target="_blank"}
+	- Introduction to Analytics Modeling (May 2020) [certificate link](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
+	- Computing for Data Analysis (May 2020) [certificate link](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
+	- Data Analytics for Business (in progress)
 
 **DataCamp**: 
-- Joining Data in SQL (July 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
-- Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
-- Machine Learning Fundamentals in R Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}   
-	- Machine Learning Toolbox (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"}  
+- SQL Fundamentals Track
+	- Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
+	- Joining Data in SQL (July 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
+	- Intermediate SQL (May 2020) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/5fb8883caf1dfb32f68d4e4c03c775dc3e54078f){:target="_blank"}
+	- PostgreSQL Summary Stats and Window Functions (May 2020) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/0de6a8326734fea9200533ea543210bdaed744da){:target="_blank"}	
+- Machine Learning Fundamentals in R Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}    
 	- Supervised Learning in R: Classification (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"}  			  
 	- Supervised Learning in R: Regression (February 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"}  
 	- Unsupervised Learning in R (April 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"}   
+	- Machine Learning with caret in R (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"}
 	
 **Coursera**: 
 - Practical Machine Learning on H2O (January 2020) [certificate link](https://www.coursera.org/account/accomplishments/records/Y5VDKPEF8S2F){:target="_blank"}  
