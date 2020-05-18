@@ -78,12 +78,12 @@ March 2017 - Present
 	- Data Analytics for Business (in progress)
 
 **DataCamp**: 
-- SQL Fundamentals Track (in progress)
+- SQL Fundamentals Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
 	- Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
 	- Joining Data in SQL (July 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
 	- Intermediate SQL (May 2020) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/5fb8883caf1dfb32f68d4e4c03c775dc3e54078f){:target="_blank"}
 	- PostgreSQL Summary Stats and Window Functions (May 2020) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/0de6a8326734fea9200533ea543210bdaed744da){:target="_blank"}	
-	- Functions for Manipulating Data in PostgreSQL (in progress)
+	- Functions for Manipulating Data in PostgreSQL (May 2020) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/41784344032c0662cc3b79ef13d5fd9c0638a959){:target="_blank"}
 - Machine Learning Fundamentals in R Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}    
 	- Supervised Learning in R: Classification (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"}  			  
 	- Supervised Learning in R: Regression (February 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"}  
