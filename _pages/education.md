@@ -71,13 +71,13 @@ March 2017 - Present
 ▷ Self-learning through several massive open online course (MOOC) platforms (Coursera, DataCamp, edX)  
 ▷ Taking various courses in Computer Science and Data Science 
   
-**edX**: [edX Profile](https://profile.edx.org/u/Snowingsita){:target="_blank"}
-- Analytics: Essential Tools and Methods MicroMasters Program [certificate link](https://credentials.edx.org/records/programs/a2a6a8f97b6149ce9d627e959b776fb7/){:target="_blank"}
+**edX**: [profile link](https://profile.edx.org/u/Snowingsita){:target="_blank"}
+- Analytics: Essential Tools and Methods MicroMasters Program [program link](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}
 	- Introduction to Analytics Modeling (May 2020) [certificate link](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate link](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
 	- Data Analytics for Business (in progress)
 
-**DataCamp**: [DataCamp Profile](https://www.datacamp.com/profile/xzhang33){:target="_blank"}
+**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}
 - SQL Fundamentals Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
 	- Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
 	- Joining Data in SQL (July 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
