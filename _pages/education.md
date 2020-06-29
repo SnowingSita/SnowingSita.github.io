@@ -38,8 +38,8 @@ Bachelor of Arts in Sociology (minor in Mathematics)
 Honors & Awards: Founder’s Scholarship, Leadership Award, Service Award, Dean’s List  
 Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club  
 
-
-**Sociology & Psychology Courses**: 
+{::options parse_block_html="true" /}
+<details><summary markdown="span">**Sociology & Psychology Courses**:</summary>
 - SOCI 452 Senior Seminar 
 - SOCI 451 Research Methods 
 - SOCI 450 Sociological Theory 
@@ -53,8 +53,12 @@ Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club
 - SOCI 100 Intro to Sociology: Sociological Perspective 
 - PSYC 219 Statistics for Behavioral Science 
 - PSYC 101 Introductory Psychology 
+</details>
+<br/>
+{::options parse_block_html="false" /}
 
-**Mathematics & Computer Science Courses**: 
+{::options parse_block_html="true" /}
+<details><summary markdown="span">**Mathematics & Computer Science Courses**:</summary>
 - MATH 328 Ordinary Differential Equations 
 - MATH 232 Linear Algebra 
 - MATH 223 Calculus III 
@@ -62,6 +66,9 @@ Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club
 - MATH 124 Calculus II 
 - CSCI 188 Java Programming I 
 - PHIL 119 Logic 
+</details>
+<br/>
+{::options parse_block_html="false" /}
 
 ---
 
@@ -78,13 +85,6 @@ March 2017 - Present
 	- Data Analytics for Business (in progress)
 
 **DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}
-
-{::options parse_block_html="true" /}
-<details><summary markdown="span">Let's see some code!</summary>
-SQL Fundamentals Track
-</details>
-<br/>
-{::options parse_block_html="false" /}
 
 - SQL Fundamentals Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
 	- Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
