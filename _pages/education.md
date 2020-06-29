@@ -81,22 +81,17 @@ March 2017 - Present
 
 {::options parse_block_html="true" /}
 <details>
-<summary markdown="span">**edX**: [profile link](https://profile.edx.org/u/Snowingsita){:target="_blank"}</summary>
+<summary markdown="span">**edX**</summary>
 - Analytics: Essential Tools and Methods MicroMasters Program [program link](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}
 	- Introduction to Analytics Modeling (May 2020) [certificate link](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate link](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
 	- Data Analytics for Business (in progress)
 </details>
 {::options parse_block_html="false" /}
-  
-**edX**: [profile link](https://profile.edx.org/u/Snowingsita){:target="_blank"}
-- Analytics: Essential Tools and Methods MicroMasters Program [program link](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}
-	- Introduction to Analytics Modeling (May 2020) [certificate link](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
-	- Computing for Data Analysis (May 2020) [certificate link](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
-	- Data Analytics for Business (in progress)
-
-**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}
-
+	
+{::options parse_block_html="true" /}
+<details>
+<summary markdown="span">**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}</summary>
 - SQL Fundamentals Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
 	- Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
 	- Joining Data in SQL (July 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
@@ -108,8 +103,12 @@ March 2017 - Present
 	- Supervised Learning in R: Regression (February 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"}  
 	- Unsupervised Learning in R (April 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"}   
 	- Machine Learning with caret in R (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"}
-	
-**Coursera**: 
+</details>
+{::options parse_block_html="false" /}
+
+{::options parse_block_html="true" /}
+<details>
+<summary markdown="span">**Coursera**</summary>
 - Practical Machine Learning on H2O (January 2020) [certificate link](https://www.coursera.org/account/accomplishments/records/Y5VDKPEF8S2F){:target="_blank"}  
 - Advanced R Programming (December 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/KAJT6AQUVH5E){:target="_blank"} 
 - The R Programming Environment (December 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/J7AM92J6ELBF){:target="_blank"} 
@@ -119,3 +118,5 @@ March 2017 - Present
 - An Introduction to Interactive Programming in Python (Part 1) (July 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/ZGA34GNXE3SE){:target="_blank"}  
 - Introduction to Probability and Data (July 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/NSECHXS8GKE5){:target="_blank"}  
 - Programming for Everybody (Getting Started with Python) (July 2017) [certificate link](https://www.coursera.org/account/accomplishments/records/6KZPLTC3CQUQ){:target="_blank"}  
+</details>
+{::options parse_block_html="false" /}
