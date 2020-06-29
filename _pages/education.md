@@ -14,7 +14,8 @@ Master of Science in Computer Science (Specialization in Computational Operation
 Honors & Awards: Teaching Assistantship  
 Activities and Societies: Chinese Students and Scholars Association (CSSA)
 
-**Mathematics & Computer Science Courses**: 
+{::options parse_block_html="true" /}
+<details><summary markdown="span">**Mathematics & Computer Science Courses**</summary>
 - APSC 691 Applied Machine Learning
 - CSCI 698 Simulation & Modeling in Operations Research
 - CSCI 688 Data Mining
@@ -28,6 +29,8 @@ Activities and Societies: Chinese Students and Scholars Association (CSSA)
 - CSCI 520 Computing in Operations Research 
 - MATH 552 Mathematical Statistics 
 - MATH 551 Probability
+</details>
+{::options parse_block_html="false" /}
 
 ---
 
@@ -39,7 +42,7 @@ Honors & Awards: Founder’s Scholarship, Leadership Award, Service Award, Dean�
 Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club  
 
 {::options parse_block_html="true" /}
-<details><summary markdown="span">**Sociology & Psychology Courses**:</summary>
+<details><summary markdown="span">**Sociology & Psychology Courses**</summary>
 - SOCI 452 Senior Seminar 
 - SOCI 451 Research Methods 
 - SOCI 450 Sociological Theory 
@@ -54,11 +57,10 @@ Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club
 - PSYC 219 Statistics for Behavioral Science 
 - PSYC 101 Introductory Psychology 
 </details>
-<br/>
 {::options parse_block_html="false" /}
 
-{::options parse_block_html="true" /}
-<details><summary markdown="span">**Mathematics & Computer Science Courses**:</summary>
+
+<details><summary markdown="span">**Mathematics & Computer Science Courses**</summary>
 - MATH 328 Ordinary Differential Equations 
 - MATH 232 Linear Algebra 
 - MATH 223 Calculus III 
@@ -67,8 +69,7 @@ Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club
 - CSCI 188 Java Programming I 
 - PHIL 119 Logic 
 </details>
-<br/>
-{::options parse_block_html="false" /}
+
 
 ---
 
