@@ -59,7 +59,7 @@ Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club
 </details>
 {::options parse_block_html="false" /}
 
-
+{::options parse_block_html="true" /}
 <details><summary markdown="span">**Mathematics & Computer Science Courses**</summary>
 - MATH 328 Ordinary Differential Equations 
 - MATH 232 Linear Algebra 
@@ -69,7 +69,7 @@ Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club
 - CSCI 188 Java Programming I 
 - PHIL 119 Logic 
 </details>
-
+{::options parse_block_html="false" /}
 
 ---
 
