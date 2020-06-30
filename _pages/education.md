@@ -86,12 +86,22 @@ March 2017 - Present
 	- Introduction to Analytics Modeling (May 2020) [certificate link](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate link](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
 	- Data Analytics for Business (in progress)
+- Introduction to Python Programming Professional Certificate (in progress)
+	- Computing in Python I: Fundamentals and Procedural Programming
+	- Computing in Python II: Control Structures
+	- Computing in Python III: Data Structures
+	- Computing in Python IV: Objects & Algorithms
 </details>
 {::options parse_block_html="false" /}
 	
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}</summary>
+- Python Programming Track (June 2020) [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
+	- Introduction to Python
+	- Intermediate Python
+	- Python Data Science Toolbox (Part 1)
+	- Python Data Science Toolbox (Part 2)
 - SQL Fundamentals Track [certificate link](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
 	- Intro to SQL for Data Science (May 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
 	- Joining Data in SQL (July 2019) [certificate link](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
