@@ -88,9 +88,8 @@ Sep 2015 – May 2016
 ## Subtitle Translator & Proofreader
 Blue Blood Subsitle Translation Group  
 Nov 2015 – Present 
-- Translate subtitles from English into Chinese, mainly for TV Show Unforgettable (Season 4), Sea Patrol (Season 4 - 5), Blue Bloods (Season 8 - 10)
+- Translate subtitles from English into Chinese, mainly for TV Show Unforgettable (Season 4), Sea Patrol (Season 4 - 5), Blue Bloods (Season 2, 6, 8, 9, 10)
 - Assist with proofreading and subtitle timing
-- Subtitle interviews for actors without script
 
 ## Alumnae Admissions Ambassador, Office of Admission
 Sweet Briar College, Sweet Briar, VA  
