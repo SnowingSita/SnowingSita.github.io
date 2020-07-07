@@ -13,7 +13,7 @@ Here is my [resume](./files/XinZhang_Resume.200408.pdf){:target="_blank"}. (upda
 Aspiring data science professional working towards her career goal as a full stack data scientist.
 M.S. in Computer Science (with a specialization in Operations Research) and B.A. in Sociology (with a minor in Mathematics) with a passion for the field of data science, technology, and financial services industry, currently working as a Predictive Modeler at PRA Group.
 
-Work Authorization: Currently on first-year OPT, eligible for STEM extension. 
+Work Authorization: Currently on STEM OPT, valid through July 2022. 
 
 ▷ Analytical Toolkit:
 - Operating Systems: Windows, Mac OS, Unix/Linux
