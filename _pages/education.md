@@ -97,6 +97,7 @@ March 2017 - Present
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}</summary>
+- Introduction to Git (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/7682cea8aa6409cdc5ab51b58b3fd396cb919e1d){:target="_blank"}
 - Introduction to Data Visualization with Matplotlib (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/4ccedc7e8df24cfd1508f7f4c4a21c223de510bf){:target="_blank"}
 - Python Programming Track (June 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
 	- Introduction to Python
