@@ -82,7 +82,7 @@ March 2017 - Present
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">
-**edX**
+**edX**  
 Completed 3 courses, including 1 MicroMasters Program
 </summary>
 - Analytics: Essential Tools and Methods MicroMasters Program [program record](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/3a168224c9ca4db4b6ee3d35287f211f/){:target="_blank"}
