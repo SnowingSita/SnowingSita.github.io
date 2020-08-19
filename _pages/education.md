@@ -99,7 +99,10 @@ Completed 3 courses, including 1 MicroMasters Program
 	
 {::options parse_block_html="true" /}
 <details>
-<summary markdown="span">**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}</summary>
+<summary markdown="span">
+**DataCamp**:  
+Completed 25 courses, including 3 Skill Tracks [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}
+</summary>
 Completed Tracks:
 - Python Programming Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
 - SQL Fundamentals Track (5 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
@@ -126,7 +129,10 @@ Completed Courses:
 
 {::options parse_block_html="true" /}
 <details>
-<summary markdown="span">**Coursera**</summary>
+<summary markdown="span">
+**Coursera**  
+Completed 9 courses
+</summary>
 - Practical Machine Learning on H2O (January 2020) [certificate](https://www.coursera.org/account/accomplishments/records/Y5VDKPEF8S2F){:target="_blank"}  
 - Advanced R Programming (December 2017) [certificate](https://www.coursera.org/account/accomplishments/records/KAJT6AQUVH5E){:target="_blank"} 
 - The R Programming Environment (December 2017) [certificate](https://www.coursera.org/account/accomplishments/records/J7AM92J6ELBF){:target="_blank"} 
