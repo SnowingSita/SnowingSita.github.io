@@ -81,7 +81,10 @@ March 2017 - Present
 
 {::options parse_block_html="true" /}
 <details>
-<summary markdown="span">**edX**</summary>
+<summary markdown="span">
+**edX**
+Completed 3 courses, including 1 MicroMasters Program
+</summary>
 - Analytics: Essential Tools and Methods MicroMasters Program [program record](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/3a168224c9ca4db4b6ee3d35287f211f/){:target="_blank"}
 	- Introduction to Analytics Modeling (May 2020) [certificate](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
