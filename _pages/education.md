@@ -97,25 +97,28 @@ March 2017 - Present
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}</summary>
+Completed Tracks:
+- Python Programming Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
+- SQL Fundamentals Track (5 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
+- Machine Learning Fundamentals in R Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}   
+
+Completed Courses:
+- Cleaning Data in Python (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/290d079b456f260f6f72094dc4fedd599b3f3b05){:target="_blank"}
 - Introduction to Git (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/7682cea8aa6409cdc5ab51b58b3fd396cb919e1d){:target="_blank"}
 - Introduction to Data Visualization with Matplotlib (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/4ccedc7e8df24cfd1508f7f4c4a21c223de510bf){:target="_blank"}
-- Python Programming Track (June 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
-	- Introduction to Python
-	- Intermediate Python
-	- Python Data Science Toolbox (Part 1)
-	- Python Data Science Toolbox (Part 2)
-- SQL Fundamentals Track [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
-	- Intro to SQL for Data Science (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
-	- Joining Data in SQL (July 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
-	- Intermediate SQL (May 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/5fb8883caf1dfb32f68d4e4c03c775dc3e54078f){:target="_blank"}
-	- PostgreSQL Summary Stats and Window Functions (May 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/0de6a8326734fea9200533ea543210bdaed744da){:target="_blank"}	
-	- Functions for Manipulating Data in PostgreSQL (May 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/41784344032c0662cc3b79ef13d5fd9c0638a959){:target="_blank"}
-- Machine Learning Fundamentals in R Track [certificate](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}    
-	- Supervised Learning in R: Classification (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"}  			  
-	- Supervised Learning in R: Regression (February 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"}  
-	- Unsupervised Learning in R (April 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"}   
-	- Machine Learning with caret in R (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"}
+- Intermediate SQL (May 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/5fb8883caf1dfb32f68d4e4c03c775dc3e54078f){:target="_blank"}
+- PostgreSQL Summary Stats and Window Functions (May 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/0de6a8326734fea9200533ea543210bdaed744da){:target="_blank"}	
+- Functions for Manipulating Data in PostgreSQL (May 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/41784344032c0662cc3b79ef13d5fd9c0638a959){:target="_blank"}
+- Joining Data in SQL (July 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
+- Supervised Learning in R: Classification (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"}		  
+- Machine Learning with caret in R (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"}
+- Intro to SQL for Data Science (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
+- Unsupervised Learning in R (April 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"} 
+- Supervised Learning in R: Regression (February 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"} 
 </details>
+
+
+
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
