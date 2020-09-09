@@ -4,13 +4,12 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-
-[Continuing Education](#continuing-education)  
+  
 ---
 
-# [College of William & Mary](http://www.wm.edu){:target="_blank"}
+# College of William & Mary
 
-August 2017 - May 2019  
+August 2017 - May 2019 [School Website](http://www.wm.edu){:target="_blank"}  
 Master of Science in Computer Science (Specialization in Computational Operations Research)  
 Honors & Awards: Teaching Assistantship  
 Activities and Societies: Chinese Students and Scholars Association (CSSA)
@@ -35,9 +34,9 @@ Activities and Societies: Chinese Students and Scholars Association (CSSA)
 
 ---
 
-# [Sweet Brair College](http://www.sbc.edu){:target="_blank"}
+# Sweet Brair College
 
-August 2012 - May 2016  
+August 2012 - May 2016 [School Website](http://www.sbc.edu){:target="_blank"}  
 Bachelor of Arts in Sociology (minor in Mathematics)   
 Honors & Awards: Founder’s Scholarship, Leadership Award, Service Award, Dean’s List  
 Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club  
