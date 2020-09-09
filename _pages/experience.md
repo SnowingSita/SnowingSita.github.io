@@ -5,9 +5,9 @@ permalink: /experience/
 author_profile: true
 ---
 
----
-
-[Go to Work Experience](#work-experience)
+[Work Experience](#work-experience)
+[Teaching Experience](#teaching-experience)
+[Volunteer](#volunteer)
 
 ---
 
