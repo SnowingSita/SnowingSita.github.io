@@ -7,8 +7,8 @@ author_profile: true
 
 ---
 
-[College of William & Mary](http://www.wm.edu){:target="_blank"}
-======
+# [College of William & Mary](http://www.wm.edu){:target="_blank"}
+
 August 2017 - May 2019  
 Master of Science in Computer Science (Specialization in Computational Operations Research)  
 Honors & Awards: Teaching Assistantship  
@@ -34,8 +34,8 @@ Activities and Societies: Chinese Students and Scholars Association (CSSA)
 
 ---
 
-[Sweet Brair College](http://www.sbc.edu){:target="_blank"}
-======
+# [Sweet Brair College](http://www.sbc.edu){:target="_blank"}
+
 August 2012 - May 2016  
 Bachelor of Arts in Sociology (minor in Mathematics)   
 Honors & Awards: Founder’s Scholarship, Leadership Award, Service Award, Dean’s List  
@@ -73,8 +73,8 @@ Activities and Societies: Paint ‘n’ Patches (Theater Society), Chinese Club
 
 ---
 
-Continuing Education
-======
+# Continuing Education
+
 March 2017 - Present  
 - Self-learning through several massive open online course (MOOC) platforms (Coursera, DataCamp, edX)  
 - Taking various courses in Computer Science and Data Science 
