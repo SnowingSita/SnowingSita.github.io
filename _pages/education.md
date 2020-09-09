@@ -83,25 +83,20 @@ March 2017 - Present
 <details>
 <summary markdown="span">
 **edX**  
-Completed 3 courses, including 1 MicroMasters Program
+Completed 3 graduate-level semester-long courses, including 1 MicroMasters Program
 </summary>
 - Analytics: Essential Tools and Methods MicroMasters Program [program record](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/3a168224c9ca4db4b6ee3d35287f211f/){:target="_blank"}
 	- Introduction to Analytics Modeling (May 2020) [certificate](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
 	- Data Analytics for Business (August 2020) [certificate](https://courses.edx.org/certificates/3937c31c155e4462b1bfb45b5cc4e3da){:target="_blank"} 
-- Introduction to Python Programming Professional Certificate (in progress)
-	- Computing in Python I: Fundamentals and Procedural Programming
-	- Computing in Python II: Control Structures
-	- Computing in Python III: Data Structures
-	- Computing in Python IV: Objects & Algorithms
 </details>
 {::options parse_block_html="false" /}
 	
 {::options parse_block_html="true" /}
 <details>
 <summary markdown="span">
-**DataCamp**:  
-Completed 25 courses, including 3 Skill Tracks [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}
+**DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}  
+Completed 25 4-hour courses, including 3 Skill Tracks 
 </summary>
 Completed Tracks:
 - Python Programming Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
@@ -122,9 +117,6 @@ Completed Courses:
 - Unsupervised Learning in R (April 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"} 
 - Supervised Learning in R: Regression (February 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"} 
 </details>
-
-
-
 {::options parse_block_html="false" /}
 
 {::options parse_block_html="true" /}
