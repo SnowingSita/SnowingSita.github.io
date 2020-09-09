@@ -5,6 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
+[Continuing Education](#continuing-education)  
 ---
 
 # [College of William & Mary](http://www.wm.edu){:target="_blank"}
