@@ -18,7 +18,7 @@ Work Authorization: Currently on STEM OPT, valid through July 2022.
 ▷ Analytical Toolkit:
 - Operating Systems: Windows, Mac OS, Unix/Linux
 - Programming Languages: 
-	- R (caret, data.table, DMwR, h2o, iml, tidymodels(recipes), tidyverse(dplyr, ggplot2, tidyr))
+	- R (caret, data.table, DMwR, ggplot2, h2o, iml, tidymodels, tidyverse, tidytext)
 	- Python (Matplotlib, NumPy, pandas, scikit-learn, Seaborn)
 	- SQL (Oracle, PostgreSQL)
 - Tools/Softwares: 
@@ -46,6 +46,7 @@ Work Authorization: Currently on STEM OPT, valid through July 2022.
 	- Machine Learning (Classification, Clustering, Regression)
 	- Predictive Modeling
 	- Probability
+	- Text Mining
 	- Time Series Analysis (ARIMA, Exponential Smoothing, GARCH)
 
 ▷ Soft Skills:
