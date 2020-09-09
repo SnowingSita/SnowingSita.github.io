@@ -7,6 +7,10 @@ author_profile: true
 
 ---
 
+[Go to Work Experience](#work-experience)
+
+---
+
 # Work Experience
 
 ## Predictive Modeler, Data & Analytics Department
