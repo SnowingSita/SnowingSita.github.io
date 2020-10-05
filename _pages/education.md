@@ -138,3 +138,12 @@ Completed 9 courses
 - Programming for Everybody (Getting Started with Python) (July 2017) [certificate](https://www.coursera.org/account/accomplishments/records/6KZPLTC3CQUQ){:target="_blank"}  
 </details>
 {::options parse_block_html="false" /}
+
+{::options parse_block_html="true" /}
+<details>
+<summary markdown="span">
+**SAS Training**
+</summary>
+- Applied Analytics Using SAS Enterprise Miner (October 2020) [certificate](https://www.youracclaim.com/badges/d6ec3a78-14d9-4be8-b6bb-98006f1f54bf){:target="_blank"}  
+</details>
+{::options parse_block_html="false" /}
