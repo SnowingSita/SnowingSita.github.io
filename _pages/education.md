@@ -99,7 +99,7 @@ Completed 4 courses, including 1 MicroMasters Program
 <details>
 <summary markdown="span">
 **DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}  
-Completed 25 courses, including 3 Skill Tracks 
+Completed 26 courses, including 3 Skill Tracks 
 </summary>
 Completed Tracks:
 - Python Programming Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
@@ -107,6 +107,7 @@ Completed Tracks:
 - Machine Learning Fundamentals in R Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}   
 
 Completed Courses:
+- Exploratory Data Analysis in Python (December 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/7f801c0fd15e672b119198e303c643ac8363c684){:target="_blank"}
 - Cleaning Data in Python (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/290d079b456f260f6f72094dc4fedd599b3f3b05){:target="_blank"}
 - Introduction to Git (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/7682cea8aa6409cdc5ab51b58b3fd396cb919e1d){:target="_blank"}
 - Introduction to Data Visualization with Matplotlib (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/4ccedc7e8df24cfd1508f7f4c4a21c223de510bf){:target="_blank"}
