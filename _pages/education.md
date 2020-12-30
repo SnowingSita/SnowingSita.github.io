@@ -87,11 +87,12 @@ March 2017 - Present
 **edX**  
 Completed 4 courses, including 1 MicroMasters Program
 </summary>
+- Statistics and Data Science MicroMasters Program (in progress) [program record](https://credentials.edx.org/records/programs/fa06b9c5fe2b41d8a8c11bfd9c0d7b07/){:target="_blank"}
+	- Probability: The Science of Uncertainty and Data (Dec 2020) [certificate](https://courses.edx.org/certificates/eea33ea82d4f4fb69cea87141b96cc1d){:target="_blank"}
 - Analytics: Essential Tools and Methods MicroMasters Program [program record](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/3a168224c9ca4db4b6ee3d35287f211f/){:target="_blank"}
 	- Introduction to Analytics Modeling (May 2020) [certificate](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
 	- Data Analytics for Business (August 2020) [certificate](https://courses.edx.org/certificates/3937c31c155e4462b1bfb45b5cc4e3da){:target="_blank"} 
-- Probability: The Science of Uncertainty and Data (Dec 2020) [certificate](https://courses.edx.org/certificates/eea33ea82d4f4fb69cea87141b96cc1d){:target="_blank"}
 </details>
 {::options parse_block_html="false" /}
 	
@@ -99,15 +100,16 @@ Completed 4 courses, including 1 MicroMasters Program
 <details>
 <summary markdown="span">
 **DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}  
-Completed 26 courses, including 3 Skill Tracks 
+Completed 48 courses, including 3 Skill Tracks 
 </summary>
 Completed Tracks:
-- Python Programming Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
+- Python Fundamentals Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
 - SQL Fundamentals Track (5 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1a5e852a6df7f4a6018a67a89444d2e0c8ceffcf){:target="_blank"}
 - Machine Learning Fundamentals in R Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}   
 
 Completed Courses:
 - Exploratory Data Analysis in Python (December 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/7f801c0fd15e672b119198e303c643ac8363c684){:target="_blank"}
+- Working with Dates and Times in Python (Sepetember 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/2cc0bec157d964cc86cc2242f7f5279a97660ab0){:target="_blank"}
 - Cleaning Data in Python (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/290d079b456f260f6f72094dc4fedd599b3f3b05){:target="_blank"}
 - Introduction to Git (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/7682cea8aa6409cdc5ab51b58b3fd396cb919e1d){:target="_blank"}
 - Introduction to Data Visualization with Matplotlib (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/4ccedc7e8df24cfd1508f7f4c4a21c223de510bf){:target="_blank"}
@@ -117,7 +119,7 @@ Completed Courses:
 - Joining Data in SQL (July 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/966173f17c4fe9b21d282604bdceafdc769ab751){:target="_blank"}
 - Supervised Learning in R: Classification (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/5b95e111fb1b18a532faadd50b806d56f4f00a0b){:target="_blank"}		  
 - Machine Learning with caret in R (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/8c97969a8ca58476961fb264267e951c788ba90f){:target="_blank"}
-- Intro to SQL for Data Science (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
+- Introduction to SQL (May 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/8673be852faf03b428370ffca806c13996851845){:target="_blank"}
 - Unsupervised Learning in R (April 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/0dfe230739e5d0819d0a977af24e3ae7633a22e5){:target="_blank"} 
 - Supervised Learning in R: Regression (February 2019) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/00d01cc39bd7ecc082630fce3e01dc8a03041183){:target="_blank"} 
 </details>
