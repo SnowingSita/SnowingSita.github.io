@@ -100,7 +100,7 @@ Completed 4 courses, including 1 MicroMasters Program
 <details>
 <summary markdown="span">
 **DataCamp**: [profile link](https://www.datacamp.com/profile/xzhang33){:target="_blank"}  
-Completed 48 courses, including 3 Skill Tracks 
+Completed 49 courses, including 3 Skill Tracks 
 </summary>
 Completed Tracks:
 - Python Fundamentals Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f32a7867312b52052cc9fb2f41cce17943666cf){:target="_blank"}
@@ -108,6 +108,7 @@ Completed Tracks:
 - Machine Learning Fundamentals in R Track (4 courses) [certificate](https://www.datacamp.com/statement-of-accomplishment/track/72ae99b3e79c7d8d79c25307ac21bbb324e8e1ca){:target="_blank"}   
 
 Completed Courses:
+- Analyzing Police Activity with pandas (December 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/de8900ba99051af3eb8fb8b0f64f898ab749430f){:target="_blank"}
 - Exploratory Data Analysis in Python (December 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/7f801c0fd15e672b119198e303c643ac8363c684){:target="_blank"}
 - Working with Dates and Times in Python (Sepetember 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/2cc0bec157d964cc86cc2242f7f5279a97660ab0){:target="_blank"}
 - Cleaning Data in Python (August 2020) [certificate](https://www.datacamp.com/statement-of-accomplishment/course/290d079b456f260f6f72094dc4fedd599b3f3b05){:target="_blank"}
