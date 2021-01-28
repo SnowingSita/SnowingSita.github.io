@@ -93,6 +93,11 @@ Completed 4 courses, including 1 MicroMasters Program
 	- Introduction to Analytics Modeling (May 2020) [certificate](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
 	- Data Analytics for Business (August 2020) [certificate](https://courses.edx.org/certificates/3937c31c155e4462b1bfb45b5cc4e3da){:target="_blank"} 
+- Introduction to Python Programming Professional Certificate Program [program record](https://credentials.edx.org/records/programs/a11c408f0986439382688bc16500cdf3/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/9bdee95c69574a309a90af5fc8594d7c/){:target="_blank"}
+	- Computing in Python I: Fundamentals and Procedural Programming (December 2020) [certificate](https://courses.edx.org/certificates/26a7c69e6ba54686add0aa9d789bf6d5){:target="_blank"}
+	- Computing in Python II: Control Structures (January 2021) [certificate](https://courses.edx.org/certificates/1d6cadd894554b15ae98a5778e927d13){:target="_blank"}
+	- Computing in Python III: Data Structures (January 2021) [certificate](https://courses.edx.org/certificates/0ad7fac4bbf74d6285bd014bf3b4b6d2){:target="_blank"}
+	- Computing in Python IV: Objects & Algorithms (January 2021) [certificate](https://courses.edx.org/certificates/33c41e8eddf041028c6985ee8fe3c16c){:target="_blank"}
 </details>
 {::options parse_block_html="false" /}
 	
