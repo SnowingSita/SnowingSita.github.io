@@ -85,15 +85,15 @@ March 2017 - Present
 <details>
 <summary markdown="span">
 **edX**  
-Completed 4 courses, including 1 MicroMasters Program
+Completed 8 courses, including 1 MicroMasters Program
 </summary>
-- Statistics and Data Science MicroMasters Program (in progress) [program record](https://credentials.edx.org/records/programs/fa06b9c5fe2b41d8a8c11bfd9c0d7b07/){:target="_blank"}
+- Statistics and Data Science MicroMasters Program (in progress) [program record](https://credentials.edx.org/records/programs/shared/2b44dcac01854dfd8a9d8aadfeaa7a51/){:target="_blank"}
 	- Probability: The Science of Uncertainty and Data (Dec 2020) [certificate](https://courses.edx.org/certificates/eea33ea82d4f4fb69cea87141b96cc1d){:target="_blank"}
 - Analytics: Essential Tools and Methods MicroMasters Program [program record](https://credentials.edx.org/records/programs/shared/2893a4d1b61b474ea2ca505eda3c4b51/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/3a168224c9ca4db4b6ee3d35287f211f/){:target="_blank"}
 	- Introduction to Analytics Modeling (May 2020) [certificate](https://courses.edx.org/certificates/661237124e804e77b925ae37c9107545){:target="_blank"}
 	- Computing for Data Analysis (May 2020) [certificate](https://courses.edx.org/certificates/4a77a230326c4c61949ed7b473a303e4){:target="_blank"} 
 	- Data Analytics for Business (August 2020) [certificate](https://courses.edx.org/certificates/3937c31c155e4462b1bfb45b5cc4e3da){:target="_blank"} 
-- Introduction to Python Programming Professional Certificate Program [program record](https://credentials.edx.org/records/programs/a11c408f0986439382688bc16500cdf3/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/9bdee95c69574a309a90af5fc8594d7c/){:target="_blank"}
+- Introduction to Python Programming Professional Certificate Program [program record](https://credentials.edx.org/records/programs/shared/66bc4473a7194608a6fb21867d3c22ef/){:target="_blank"}/[certificate](https://credentials.edx.org/credentials/9bdee95c69574a309a90af5fc8594d7c/){:target="_blank"}
 	- Computing in Python I: Fundamentals and Procedural Programming (December 2020) [certificate](https://courses.edx.org/certificates/26a7c69e6ba54686add0aa9d789bf6d5){:target="_blank"}
 	- Computing in Python II: Control Structures (January 2021) [certificate](https://courses.edx.org/certificates/1d6cadd894554b15ae98a5778e927d13){:target="_blank"}
 	- Computing in Python III: Data Structures (January 2021) [certificate](https://courses.edx.org/certificates/0ad7fac4bbf74d6285bd014bf3b4b6d2){:target="_blank"}
